@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/MH5/!svn/ver/327/UTILS/DOT_NET/SVNLabeler/src/ccnet.SvnRevisionLabeller.plugin/Core
+END
+SystemClock.cs
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/MH5/!svn/ver/327/UTILS/DOT_NET/SVNLabeler/src/ccnet.SvnRevisionLabeller.plugin/Core/SystemClock.cs
+END
+ISystemClock.cs
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/MH5/!svn/ver/327/UTILS/DOT_NET/SVNLabeler/src/ccnet.SvnRevisionLabeller.plugin/Core/ISystemClock.cs
+END

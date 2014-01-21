@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/MH5/!svn/ver/327/UTILS/DOT_NET/SVNLabeler/test/ccnet.SvnRevisionLabeller.tests
+END
+RevisionNumberSpecifications.cs
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/MH5/!svn/ver/327/UTILS/DOT_NET/SVNLabeler/test/ccnet.SvnRevisionLabeller.tests/RevisionNumberSpecifications.cs
+END
+CustomPatternSpecifications.cs
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/MH5/!svn/ver/327/UTILS/DOT_NET/SVNLabeler/test/ccnet.SvnRevisionLabeller.tests/CustomPatternSpecifications.cs
+END
+Settings.StyleCop
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/MH5/!svn/ver/327/UTILS/DOT_NET/SVNLabeler/test/ccnet.SvnRevisionLabeller.tests/Settings.StyleCop
+END
+ccnet.SvnRevisionLabeller.tests.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/MH5/!svn/ver/327/UTILS/DOT_NET/SVNLabeler/test/ccnet.SvnRevisionLabeller.tests/ccnet.SvnRevisionLabeller.tests.csproj
+END
+Specification.cs
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/MH5/!svn/ver/327/UTILS/DOT_NET/SVNLabeler/test/ccnet.SvnRevisionLabeller.tests/Specification.cs
+END
+DateSpecifications.cs
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/MH5/!svn/ver/327/UTILS/DOT_NET/SVNLabeler/test/ccnet.SvnRevisionLabeller.tests/DateSpecifications.cs
+END
+MsRevisionSpecifications.cs
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/MH5/!svn/ver/327/UTILS/DOT_NET/SVNLabeler/test/ccnet.SvnRevisionLabeller.tests/MsRevisionSpecifications.cs
+END
+SvnRevisionLabellerStub.cs
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/MH5/!svn/ver/327/UTILS/DOT_NET/SVNLabeler/test/ccnet.SvnRevisionLabeller.tests/SvnRevisionLabellerStub.cs
+END
+FakeSystemClock.cs
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/MH5/!svn/ver/327/UTILS/DOT_NET/SVNLabeler/test/ccnet.SvnRevisionLabeller.tests/FakeSystemClock.cs
+END

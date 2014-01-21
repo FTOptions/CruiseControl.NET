@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/MH5/!svn/ver/327/UTILS/DOT_NET/SVNLabeler/lib
+END
+ThoughtWorks.CruiseControl.Core.dll
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/MH5/!svn/ver/327/UTILS/DOT_NET/SVNLabeler/lib/ThoughtWorks.CruiseControl.Core.dll
+END
+NetReflector.dll
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/MH5/!svn/ver/327/UTILS/DOT_NET/SVNLabeler/lib/NetReflector.dll
+END
+ThoughtWorks.CruiseControl.Remote.dll
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/MH5/!svn/ver/327/UTILS/DOT_NET/SVNLabeler/lib/ThoughtWorks.CruiseControl.Remote.dll
+END
